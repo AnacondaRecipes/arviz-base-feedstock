@@ -26,6 +26,7 @@ requirements:
     - typing_extensions >=3.10
     - lazy_loader >=0.4
 
+# no tests provided by pypi package.
 test:
   imports:
     - arviz_base
